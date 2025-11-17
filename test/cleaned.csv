@@ -1,0 +1,422 @@
+#;Name of the project;Country;Status;Start date;Asian Development Bank ;Asian Infrastructure Investment Bank (AIIB);Eurasian Development Bank ;Eurasian Fund for Stabilisation and
+Development;National Government(-s);Chinese governemnt, banks, and private companies;State companies and state banks;European Bank for Reconstruction and Development ;
+International Bank for Reconstruction and Development (IBRD);Global Environment Facility;World Bank;Japan agencies and funds;United Nations Development Programme;International Finance Corporation;Islamic Development Bank;Other sources/shared;Green Climate Fund;Clean Energy Fund;Nordic Development Fund ;Governemnt of Georgia;Government of Finland;Government of Netherlands;EU programs, funds and banks;Government of Afghanistan;Korean government and funds;OPEC Fund for International Development;Regional Cooperation and Integration Fund;Public-Private Infrastructure Advisory Facility (PPIAF);Governance Cooperation Fund;Total in million USD;Type of project
+WIND;Uzbekistan Bash WPP;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;150,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;559,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;709,0;Loan
+HYDRO;Small Hydro Power Development ;Kyrgyzstan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,1;Technical Assistance
+ENER_LINE;CAEPCO Energy Efficiency Project;Kazakhstan;Completed;2013;0,0;0,0;0,0;0,0;0,0;0,0;0,0;141,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;517,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;658,9;Loan
+HYDRO;Pamir Additional Financing;Tajikistan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,5;0,0;0,0;0,0;0,0;5,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,8;Loan
+HYDRO;Nurek 500 kV Switchyard Reconstruction Project ;Tajikistan;Completed;2008;54,8;0,0;0,0;0,0;12,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;66,9;Grant
+ENER_LINE;Establishment of the CAREC Members Electricity Regulators Forum;Regional;Completed;2005;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,342;0;0,8;Technical assistance
+ENER_LINE;Energy Emergency Project ;Tajikistan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;21,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;21,5;Loan
+ENER_LINE;Emergency Energy Assistance;Kyrgyzstan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;Grant, Loan
+ENER_LINE;Energy Emergency Assistance Project ;Kyrgyzstan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;11,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;11,0;Grant, Loan
+ENER_LINE;Energy Emergency Recovery Assistance Project ;Tajikistan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,5;Grant
+ENER_LINE;Energy Emergency Project;Tajikistan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,5;Loan
+ENERGY_EQUIP;Reconstruction of two power units by the Eurasian Energy Corporation JSC.;Kazakhstan;Completed;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;600,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;600,0;Unidentified
+HYDRO;Strategic Planning for Small and Medium-Sized Hydropower Development ;Kyrgyzstan;Ongoing;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;Technical Assistance
+HYDRO;Preparing Small-Scale Hydropower Projects for Private Sector Participation ;Tajikistan;Ongoing;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;Technical Assistance
+ENERGY_EQUIP;KEGOC Modernization II Loan ;Kazakhstan;Ongoing;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;187,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;187,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;374,8;Loan
+ENER_EQUIP;Energy Conservation and Emissions Reduction from Poor Household;Mongolia;Completed;2008;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,0;Grant
+ENER_LINE;Preparing Sustainable Energy Projects in Central Asia;Regional;Ongoing;2019;0,175;0;0;0;0;1,6;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0,0;0,0;1,8;Technical assistance
+ENER_LINE;Promoting Low-Carbon Development in CAREC Program Cities;Regional;Ongoing;2017;0;0;0;0;0;0,7;0;0;0;0;0;0;0;0;0;0;0;1,5;0;0;0;0;0;0;0,5;0;0,5;0,0;0,348;3,5;Technical assistance
+ENER_SEC_REF;Study for a Power Sector Financing Roadmap within CAREC;Regional;Completed;2014;1;0;0;0;0;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;1,5;Technical assistance
+ENER_LINE;Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System - Provision of Solutions to Bottlenecks to the Regional Power Trade (Subproject 2);Regional;Ongoing;2019;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,5;0,0;0,0;1,5;Technical assistance
+ENER_LINE;Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System - Modernization of Coordinating Dispatch Center Energiya (Subproject 1);Regional;Ongoing;2019;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2,0;0;0;0;0;0;0;0;0;0,0;0,0;0,0;2,5;Technical assistance
+ENER_EQUIP;Leapfrogging of Clean Technology in CAREC Countries through Market Transformation;Regional;Completed;2017;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2,0;0;0;0;0;0;0;0;0;0;0,0;0;2,0;Technical assistance
+ENER_EQUIP;Access to Electricity with New Off-Grid Solar Technology in Central Asia;Regional;Completed;2016;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2,0;0;0;0;0;0;0;0;0;0;0,0;0;2,0;Technical assistance
+ENER_LINE;Regional Cooperation on Renewable Energy Integration to the Grid;Regional;Completed;2017;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1,5;0;0;0;0;0;0;0;0;0,0;0,0;0,0;1,5;Technical assistance
+LOG;Regional Logistics Development Project ;Mongolia;Completed;2008;0,4;0,0;;;0,1;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,5;Technical assistance
+ROAD;Community-Based Local Road Upgrading and Maintenance in the Western Region of Mongolia ;Mongolia;Completed;2008;2,1;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,1;Grant
+ROAD;Western Regional Road Corridor Development Project, Phase 1 ;Mongolia;Completed;2008;37,6;0,0;;;74,6;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;112,2;Grant
+ROAD;Community-Based Local Road Upgrading and Maintenance in the Western Region of Mongolia;Mongolia;Completed;2008;0,0;0,0;;;0,2;0,0;0,0;0,0;;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,2;Grant
+ROAD;Urban Transport Development Project;Mongolia;Completed;2008;1,6;0,0;;;0,2;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,8;Technical assistance
+GAS_LINE;Construction of the first branch of the Kazakhstan–China gas pipeline. ;Kazakhstan;Ongoing;2009;0,0;0,0;0,0;0,0;0,0;7500,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7500,0;Loan
+REN_ENER;RES;Kazakhstan;;2019;0;0;0;0;0;0;0;360;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;360,0;Loan
+ENER_LINE;Demonstration Project for Improved Electricity Services to the Low-Income Communities in Rural Areas;Mongolia;Completed;2009;0,0;0,0;;;0,2;0,0;0,0;0,0;0,0;0,0;0,0;2,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,6;Grant
+HEAT_LINE;Enhanced partnership - dh modernisation framework;Kazakhstan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;254,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;254,5;Loan
+ENER_LINE;EMERGENCY ENERGY ASSISTANCE PROJECT - ADDITIONAL FINANCING;Kyrgyzstan;Completed;2009;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;Grant, Loan
+ENER_BUILD_MN009;Building Energy Efficiency Project ;Mongolia;Completed;2009;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,4;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,4;Technical assistance
+ROAD;Regional Transport Development Project ;Mongolia;Completed;2009;1,2;0,0;;;0,3;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,5;Technical assistance
+ROAD;Road Database Development Using Geographic Information System ;Mongolia;Completed;2009;0,5;0,0;;;0,1;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,6;Technical assistance
+GAS_PLANT;CASAREM-Talimarjan Power Generation and Transmission Project ;Uzbekistan;Completed;2009;2,1;0,0;;;0,4;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,5;Technical assistance
+ENER_EQUIP;Ulaanbaatar Clean Air;Mongolia;Completed;2009;0,5;0,0;;;0,1;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,6;Technical assistance
+ENER_EQUIP;Transmission and Distribution Metering Project ;Kyrgyzstan;Completed;2009;0,2;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,2;Technical Assistance
+ENER_EQUIP;Energy Emergency Assistance Project, Additional Financing ;Kyrgyzstan;Completed;2009;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;4,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;4,0;Grant
+ENER_LINE;Ulaanbaatar Low Carbon Energy Supply Project Using a Public-Private Partnership Model;Mongolia;Completed;2010;0,0;0,0;;;0,2;0,0;0,0;0,0;0,0;0,0;0,0;1,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,7;Technical assistance
+HYDRO;Construction of the Turgun 3 hydropower station: EcoEnergy;Kazakhstan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;250,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;250,0;unidentified
+ENER_LINE;Regional Power Transmission Project ;Tajikistan;Completed;2010;122,0;0,0;0,0;0,0;19,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;141,0;Grant
+GAS_LINE;Turkmenistan-Afghanistan-Pakistan-India Natural Gas Pipeline Project (Phase 2);Turkmenistan;Completed;2010;0,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,5;Technical assistance
+GAS_LINE;Turkmenistan–Afghanistan–Pakistan–India Natural Gas Pipeline, Project 2;Turkmenistan;Completed;2010;0,525;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0,5;Technical assistance
+REN_ENER;Renewable energy financing 
+mechanism;Kazakhstan;;2016;0;0;0;0;0;0;0;240;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;240,0;Loan
+HEAT_LINE;Kazakhstan District Heating Modernisation Framework;Kazakhstan;Cancelled;2010;0,0;0,0;0,0;0,0;0,0;0,0;0,0;142,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;60,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;202,0;Loan
+ENER_LINE;Emergency Recovery Project;Kyrgyzstan;Completed;2010;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;70,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;70,0;Loan
+ENER_LINE;Energy Emergency Recovery Assistance Project, Additional Financing ;Tajikistan;Completed;2010;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;Grant
+ENER_LINE;Energy Emergency - Additional Financing;Tajikistan;Completed;2010;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;Grant
+GAS_PLANT;Talimarjan Power Project (formerly CASAREM–Talimarjan Energy Development Project) ;Uzbekistan;Completed;2010;350,0;0,0;;;230,0;0,0;400,0;0,0;;0,0;0,0;300,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1280,0;Loan
+LOG;Regional Logistics Development Project ;Mongolia;Ongoing;2010;45,0;0,0;;;26,6;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;71,6;Grant, loan
+ROAD;Regional Road Development Project, Supplementary ;Mongolia;Completed;2010;24,0;0,0;;;1,6;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;25,6;Grant, loan
+ROAD;Regional Road Development Project - Supplementary;Mongolia;Completed;2010;24,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;24,0;Grant, loan
+ENER_LINE;Regional : Fostering Expanded Regional Electricity and Gas Interconnection and Trade under the CAREC Energy Strategy 2030;Regional;Ongoing;2020;0,4;0,0;;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,9;Technical assistance
+WIND;Uzbekistan Dzhankeldy WPP;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;150,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;512,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;662,0;Loan
+ENER_LINE;Regional : Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System;Regional;Ongoing;2018;3,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,5;Technical assistance
+ENER_SEC_REF;Energy Sector Performance
+Improvement;Uzbekistan;Ongoing;2017;450;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;177;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;627,0;Loan
+ENER_SEC_REF;Climate Risk Management;Regional;Completed;2010;0;0;0;0;0;0;0;0;0;0;0;0;5,899;0;0;0;0;0;0;0;0,288;0;0;0;0;0;0;0,0;0;6,2;Technical assistance
+ENER_SEC_REF;Europe and the CIS Sustainable Energy for All (SE4ALL) initiative;Regional;Completed;2014;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;2,0;Technical assistance
+ENER_EQUIP;Energy Sector Additional Financing;Mongolia;Completed;2010;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;12,0;0,0;0,0;0,0;0,0;0,5;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;12,5;Loan
+ENER_EQUIP;Power Sector Improvement Project (formerly Transmission and Distribution Metering Project);Kyrgyzstan;Completed;2010;44,8;0,0;;;11,2;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;56,0;Grant, Loan
+WIND;WIND_Zarafshon Wind - VAT Facility;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;571,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;593,4;Loan
+ENER_LINE;Modernization of high-voltage power lines from Datka to Yug;Kyrgyzstan;Completed;2011;0,0;0,0;0,0;0,0;0,0;208,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;208,0;Loan
+ENER_LINE;Regional Power Interconnection Project ;Turkmenistan;Completed;2011;1,3;0,0;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,4;Technical assistance
+HYDRO;Technology Transfer and Market Development for Small-Hydropower in Tajikistan ;Tajikistan;Completed;2011;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;0,0;0,0;1,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3,3;Technical Assistance
+ENER_P_BUILD;Improving Energy Efficiency in the Residential Buildings Sector of Turkmenistan ;Turkmenistan;Completed;2011;0,0;0,0;0,0;0,0;43,4;0,0;0,0;0,0;0,0;2,5;0,0;0,0;0,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;46,2;Technical assistance
+ENER_LINE;Alma Electricity Transmission Project;Kazakhstan;Completed;2010;0,0;0,0;0,0;0,0;122,9;0,0;0,0;0,0;0,0;0,0;71,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;194,3;Loan
+HEAT_LINE;South East Gobi Municipal Infrastructure Project;Mongolia;Cancelled;2011;2,3;0,0;0,0;0,0;0,0;0,0;0,0;18,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,8;Loan, grant
+WIND;WIND_Zarafshon Wind;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;45,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;548,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;593,4;Loan
+ENER_LINE;Electricity Sector Transformation and Resilient Transmission;Uzbekistan;Ongoing;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;380,0;0,0;0,0;0,0;0,0;0,0;47,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;427,0;Loan, grant
+GAS;UZB: KANDYM GAS FIELD DEVELOPMENT;Uzbekistan;Completed;2011;0,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,3;Loan
+ENER_LINE;Electricity Sector Transformation and Resilient Transmission ;Uzbekistan;Ongoing;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;427,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;427,0;Loan
+SOLAR;Sherabad Solar Revolving Facility;Uzbekistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;38,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;379,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;418,0;Loan
+ENER_LINE;Power Supply Options Study;Tajikistan;Completed;2011;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,8;Technical Assistance
+ENER_SEC_REF;Energy sector restoration;Tajikistan;Ongoing;2011;0;0;9;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;9,0;Loan
+REN_ENER;Crescent Clean Energy Fund Turkey;Tajikistan;;2011;0;0;1,5;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;1,5;Loan
+ENER_LINE;Samruk-Energy ;Kazakhstan;Ongoing;2016;0;0;0;0;0;0;0;180;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;180,0;Loan
+ENER_LINE;Sogdiana – Energy Losses Reduction
+Project;Tajikistan;Completed;2011;0;0;0;0;0;0;0;14,15;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;14,2;Loan
+ENER_EQUIP;Sugd Energy Loss Reduction project;Tajikistan;Ongoing;2011;0,0;0,0;;;0,0;0,0;0,0;14,2;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;15,4;0,0;0,0;0,0;;;;29,6;Loan
+ROAD;Western Regional Road Corridor Development Program, Tranche I ;Mongolia;Completed;2011;45,0;0,0;;;27,1;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;72,1;Loan
+ROAD;Road Sector Capacity Development;Mongolia;Completed;2011;0,0;0,0;;;0,3;0,0;0,0;0,0;;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,3;Technical assistance
+ROAD;Western Regional Road Corridor Investment Program - Tranche 1;Mongolia;Completed;2011;45,0;0,0;;;27,1;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;72,1;Loan
+GAS_PLANT;Talimarjan Transmission Project;Uzbekistan;Completed;2011;0,0;0,0;;;93,0;0,0;0,0;0,0;;0,0;110,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;203,0;Loan
+ENER_LINE;CAREC: Power Sector Regional Master Plan;Regional;Completed;2010;2;0;0;0;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;2,5;Technical assistance
+SOLAR;M-KAT Green Solar Power Plant;Kazakhstan;Ongoing;2018;121,4;0,0;0,0;0,0;0,0;0,0;0,0;58,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;179,4;Loan
+HEAT_LINE;CAEPCO District Heating - Petropavlovsk;Kazakhstan;Ongoing;2011;0,0;0,0;0,0;0,0;63,2;0,0;0,0;63,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;49,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;176,1;Loan
+ENER_LINE;KEGOC Osakarovka Restructuring Loan ;Kazakhstan;Completed;2011;0,0;0,0;0,0;0,0;0,0;0,0;0,0;166,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;166,0;Loan
+HYDRO;Power Sector Rehabilitation Project (formerly Power Transmission Rehabilitation) ;Kyrgyzstan;Completed;2012;55,0;0,0;0,0;0,0;7,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;62,0;Grant, Loan
+HYDRO;Power Sector Rehabilitation Project;Kyrgyzstan;Completed;2012;55,0;0,0;0,0;0,0;7,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;62,0;Loan, grant
+HYDRO;Construction of the Kerbulak hydroelectric station on the Ili River.;Kazakhstan;Completed;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;152,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;152,0;Unidentified
+GAS_LINE;Turkmenistan-Afghanistan-Pakistan-India Natural Gas Pipeline Project, Phase 3;Turkmenistan;Completed;2012;1,5;0,0;0,0;0,0;0,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,4;Technical assistance
+GAS_LINE;Turkmenistan–Afghanistan–Pakistan–India (TAPI) Natural Gas Pipeline Project, Phase 3;Turkmenistan;Completed;2012;1,5;0;0;0;0,85;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;2,4;Technical assistance
+GAS_LINE;Preparing the Regional Gas Transmission Improvement Project in the Central Asia Republics;Regional;Completed;2002;0,9;0;0;0;0,28;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0,0;0,0;1,2;Technical assistance
+SOLAR;Sherabad Solar Power Project;Uzbekistan;Ongoing;2023;55,5;0,0;0,0;0,0;0,0;0,0;0,0;69,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;264,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;389,2;Loan
+ENER_LINE;Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System - Expansion of Membership in Central Asian Power System (Subproject 3);Regional;Ongoing;2019;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0,0;0,0;0,5;Technical assistance
+ENER_LINE;CAREC Members Electricity Regulators Forum (CMERF);Regional;Completed;2007;0,5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0,5;Technical assistance
+GAS_LINE;The Central Asia–China gas pipeline, line D;Turkmenistan;Completed;2011;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Unidentified
+GAS_LINE;GAS_LINE_Line C of the Central Asia–China gas pipeline;Uzbekistan;Completed;2011;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;N/A
+LOG;Logistics Capacity Development Project;Mongolia;Completed;2012;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,9;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;0,9;Technical assistance
+PUBLIC_TRANS;Ulaanbaatar Urban Transport Capacity Development;Mongolia;Completed;2012;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;1,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,0;Technical assistance
+ENER_INDUSTR;Energy Efficiency Facility for Industrial Enterprises, Phase 3;Uzbekistan;Ongoing;2018;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;200,0;0,0;0,0;0,0;0,0;132,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;332,0;Loan
+ENER_EQUIP;Ulaanbaatar Clean Air Project;Mongolia;Ongoing;2012;0,0;0,0;;;6,9;0,0;0,0;0,0;;0,0;27,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;33,9;Loan
+ENER_EQUIP;AF ENERGY LOSS REDUCTION;Tajikistan;Completed;2012;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;18,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;18,0;Loan
+GAS_LINE;Second stage of the second branch of the Kazakhstan–China gas pipeline: Beineu–Bozoi–Kyzylorda–Shymkent. ;Kazakhstan;Ongoing;2013;0,0;0,0;0,0;0,0;0,0;700,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;700,0;Loan
+ENER_LINE;Construction of high-voltage power lines from Datka to Kemin;Kyrgyzstan;Completed;2013;0,0;0,0;0,0;0,0;0,0;389,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;389,0;Loan
+WIND;Construction of a wind farm with a 60 MW capacity in the Shelek corridor;Kazakhstan;Completed;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;149,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;149,0;Unidentified
+HEAT_LINE;District Heating Energy Efficiency Project ;Uzbekistan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;324,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;324,2;Loan
+WIND;KAZREF II - Borey Wind;Kazakhstan;Cancelled;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;44,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;97,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;141,8;Loan
+HEAT_LINE;Central Heat Supply Performance
+Improvement Project (CAREC);Uzbekistan;Ongoing;2018;0;0;0;0;0;0;0;0;0,0;0;324,2;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;324,2;Loan
+HYDRO;Golovnaya 240-Megawatt Hydropower Plant Rehabilitation Project ;Tajikistan;Ongoing;2013;136,0;0,0;0,0;0,0;34,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;170,0;Grant
+HYDRO;Toktogul Rehabilitation Project Phase 2 ;Kyrgyzstan;Completed;2013;0,7;0,0;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,8;Technical Assistance
+WIND;KazRef II - Zhanatas Wind Farm;Kazakhstan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;114,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;140,2;Loan
+WIND;KAZREF II - Shokpar Wind;Kazakhstan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;85,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;135,6;Loan
+ENER_LINE;CAEPCO Modernisation Project;Kazakhstan;;2013;0;0;0;0;0;0;0;130;0,0;0;0;0;0;0;0;0;0;;0;0;;;0;0;0;0;;;;130,0;Loan
+HYDRO;Construction of small hydropower stations on the Shelek River (HPP-1, 2, 19, 29), JSC Samruk-Energo.;Kazakhstan;Completed;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;117,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;117,0;Unidentified
+ENER_INDUSTR;Energy Efficiency Fund for Industrial Enterprises (CAREC);Uzbekistan;Ongoing;2010;0;0;0;0;0;0;0;0;;0;324;0;0;0;0;0;0;;0;0;;;0;0;0;0;;;;324,0;Loan
+ENER_EQUIP;Wholesale Metering and Transmission Reinforcement Project;Tajikistan;Completed;2013;1,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,0;Technical Assistance
+SOLAR;SES Saran;Kazakhstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;52,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;52,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;105,3;Loan
+ENER_LINE;Enhancing Regional Power Trade Study;Regional;Ongoing;2013;0;0;0;0;0;0;0;0;0;0;0,192;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0,0;0;0,2;Technical assistance
+ENERGY_EQUIP;Production of oil and gas equipment: KazMunayGaz.;Kazakhstan;Completed;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;Unidentified
+ENER_INDUSTR;Energy Efficiency Facility for Industrial Enterprises ;Uzbekistan;Ongoing;2010;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;324,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;324,0;Loan
+HYDRO;Toktogul Rehabilitation Phase 2 Project ;Kyrgyzstan;Ongoing;2014;110,0;0,0;0,0;0,0;41,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;151,7;Grant, Loan
+ENER_LINE;Wholesale Metering and Transmission Reinforcement Project;Tajikistan;Ongoing;2014;54,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;54,0;Grant
+ENER_LINE;Electricity Supply Accountability and Reliability Improvement Project ;Kyrgyzstan;Completed;2014;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,5;Grant, Loan
+ENER_LINE;Energy links between Tajikistan and Kyrgyzstan;Kyrgyzstan;Ongoing;2014;0,0;0,0;85;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;85,0;Loan
+ENER_LINE;Energy links between Tajikistan and Kyrgyzstan;Tajikistan;Ongoing;2014;0;0;85;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;85,0;Loan
+ENERGY_EQUIP;Advanced Gas Metering Project;Kazakhstan;Ongoing;2021;97,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;97,9;Loan
+GAS_LINE;Construction of a network of 46 automobile gas filling compressor stations. ;Uzbekistan;Completed;2014;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Loan
+HYDRO;Shardara HPP Modernization Project;Kazakhstan;Completed;2012;0,0;0,0;0,0;0,0;0,0;0,0;0,0;67,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;23,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;90,0;Loan
+HYDRO;Kayrakkum HPP Modernisation Project;Tajikistan;Ongoing;2014;0;0;0;0;0;0;0;50;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;50,0;Loan
+ENER_LINE;Energy Efficiency and Urban Environment Improvement;Mongolia;Completed;2014;2,0;0,0;;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;Technical assistance
+ROAD;Community-led Infrastructure Development for the Urban Poor in Ulaanbaatar Phase 2;Mongolia;Completed;2011;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;2,8;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,8;UNIDENTIFIED
+GAS_LINE;Construction of the China–Central Asia gas pipeline, Kyrgyzstan section;Kyrgyzstan;Completed;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1500,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1500,0;unidentified
+GAS_PLANT;Modernization of the thermal power plant in Bishkek;Kyrgyzstan;Completed;2014;0,0;0,0;;;0,0;386,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;386,0;Unidentified
+HEAT_LINE;Cane Reed: 19th Century Idea, 21st Century Solution;Kyrgyzstan;Completed;N/A;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,1;N/A
+ROAD;Regional Road Development and Maintenance Project ;Mongolia;Completed;2014;1,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,0;Technical assistance
+ROAD;Western Regional Road Corridor Development Program, Tranche 2 ;Mongolia;Ongoing;2014;125,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;125,0;Loan
+ROAD;Western Regional Road Corridor Investment Program - Tranche 2;Mongolia;Ongoing;2014;125,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;125,0;Loan
+HYDRO;Energy Efficiency and Renewable Energy for Sustainable Water Management in Turkmenistan;Turkmenistan;Ongoing;2015;0;0;0;0;0;0;0;0;0;0;0;0;6,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,2;Technical assistance
+ENER_LINE;Cross Regional Power Trade ;Tajikistan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;110,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;191,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;301,0;Loan
+ENER_LINE;KAZREF - OZhT Distribution Network Upgrade;Kazakhstan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;13,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;76,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;89,8;Loan
+PUBLIC_TRANS;Improving Transport Services in Ger Areas;Mongolia;Ongoing;2019;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,5;0,0;;;;2,5;Grant, Technical Assistance
+SOLAR;Chulakkurgan Solar;Kazakhstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;32,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;57,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;89,6;Loan
+SOLAR;Samarkand Solar Power Project ;Uzbekistan;Completed;2013;310,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;310,0;Loan
+ENER_LINE;Restoration of Oshelektro (CAREC);Kyrgyzstan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,0;Loan
+ENER_LINE;Transregional electricity trade;Tajikistan;Ongoing;2015;0;0;0;0;0;0;0;110;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;110,0;Loan
+GAS_LINE;Atyrau-Energy;Kazakhstan;Ongoing;2015;0;0;0;0;0;0;0;5,9;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;5,9;Loan
+HEAT_LINE;Takhiatash SDPP Performance
+Improvement Project;Uzbekistan;Ongoing;2014;300;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;300,0;Loan
+SOLAR;Burnoye – solar power plant;Kazakhstan;Ongoing;2015;0;0;0;0;0;0;0;84;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;84,0;Loan
+ENER_LINE;KAZREF - KZh Distribution Network Upgrade;Kazakhstan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;13,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;67,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;80,8;Loan
+ENER_EQUIP;Energy Efficiency and Renewable Energy for Sustainable Water Management in Turkmenistan ;Turkmenistan;Ongoing;2015;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;6,2;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;6,2;Technical assistance
+RAIL_NETW;Bogdkhan Railway Bypass Investment Program;Mongolia;Completed;2015;1,5;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,5;Technical assistance
+ENER_EQUIP;Advanced Electricity Metering Project;Uzbekistan;Completed;2012;0,0;0,0;;;66,1;0,0;0,0;0,0;;0,0;180,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;246,1;Loan
+ENER_EQUIP;Oshelectro Rehabilitation Project ;Kyrgyzstan;Ongoing;2015;0,0;0,0;;;0,0;0,0;0,0;4,4;;0,0;0,0;0,0;0,0;0,0;0,0;2,2;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;6,6;Loan
+GAS_LINE;Turkmenistan–Afghanistan–Pakistan–India (TAPI) Natural Gas Pipeline Project ;Turkmenistan;Ongoing;2016;0,0;0,0;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;700,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;702,0;Grant
+HYDRO;Commissioning of the second
+hydropower unit of the Kambarata?2
+HPP;Kyrgyzstan;Ongoing;2016;0,0;0,0;0,0;110;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;110,0;Loan
+GAS_LINE;Gas Network Modernisation;Kazakhstan;Ongoing;2016;0,0;0,0;0,0;0,0;0,0;0,0;0,0;51,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;66,6;Loan
+HEAT_LINE;Bishkek District Heating Network;Kyrgyzstan;Cancelled;2016;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;12,1;Loan
+HYDRO;Toktogul Rehabilitation Phase 3 Project ;Kyrgyzstan;Ongoing;2016;110,0;0,0;0,0;0,0;25,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;135,0;Grant, Loan
+ENERGY_EQUIP;Talimarjan, Energy Project;Uzbekistan;Ongoing;2018;0;0;0;0;0;0;0;240;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;240,0;Loan
+ENER_LINE;Power Sector Development Project;Turkmenistan;Completed;2016;0,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,4;Technical assistance
+SOLAR;Jizzakh Solar Revolving Facility;Uzbekistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;19,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;187,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;207,0;Loan
+SOLAR;Samarkand Solar Revolving Facility
+;Uzbekistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;19,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;182,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;202,0;Loan
+HEAT_LINE;Capacity Building and Regulatory Support Technical Assistance;Mongolia;Completed;2016;0;0;0;0;0;0;0;0;0,0;0;1,2;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;1,2;Grant
+ENER_LINE;Energy Restructuring and
+Transformation Project (Samruk-
+Energo);Kazakhstan;Ongoing;2018;80;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;80,0;Loan
+ENER_LINE;Alma Transmission Project;Kazakhstan;Completed;2010;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;78,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;78,0;Loan
+ENER_LINE;Kazakhstan Moinak Electricity Transmission Project ;Kazakhstan;Completed;2009;0,0;0,0;0,0;0,0;21,0;0,0;0,0;0,0;0,0;0,0;48,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;69,0;Loan
+SOLAR;40 MW solar power station: Gulshat;Kazakhstan;Completed;2018;0,0;0,0;0,0;0,0;0,0;69,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;69,0;Loan
+GAS_LINE;Vostochniy;Kazakhstan;Cancelled;2016;0,0;0,0;0,0;0,0;22,3;0,0;0,0;13,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;35,7;Loan
+GAS_LINE;Modernisation of gas infrastructure ;Kazakhstan;Ongoing;2016;0;0;0;0;0;0;0;58;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;58,0;Loan
+SOLAR;Construction of solar power plants 
+in the Republic of Kazakhstan 
+(installed capacity: up to 90 MW);Kazakhstan;Ongoing;2019;0;0;66,5;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;66,5;Loan
+HYDRO;Improvement of climate change
+sustainability of the Kayrakkum HPP;Tajikistan;Ongoing;2016;0;0;0;0;0;0;0;38;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;38,0;Loan
+WIND;Ereymentau wind power plant;Kazakhstan;Ongoing;2014;0;0;0;0;0;0;0;65;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;65,0;Loan
+WIND;Tsetsii Windfarm;Mongolia;Ongoing;2016;0,0;0,0;;;0,0;0,0;0,0;23,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;103,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;127,0;Loan
+ITS;Intelligent Transport Systems Development for Mongolia;Mongolia;Completed;2016;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,5;0,0;;;;0,5;Technical assistance
+ROAD;Development of Road Safety Policy and Action Plan for Mongolia ;Mongolia;Completed;2016;1,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,0;Technical assistance
+ENER_LINE;220 kV Lolazor–Khatlon domestic power transmission line;Tajikistan;Ongoing;2008;0,0;0,0;0,0;0,0;0,0;58,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;58,0;Unidentified
+SOLAR_WIND;Upscaling Renewable Energy Sector Project;Mongolia;Completed;2016;0,0;0,0;;;0,2;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;1,5;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,7;Technical assistance
+GAS_PLANT;Power Generation Efficiency Improvement Project;Uzbekistan;Completed;2016;2,4;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,4;Technical assistance
+ENER_INDUSTR;Energy Efficiency Fund for Industrial Enterprises. Phase 3 (CAREC);Uzbekistan;Ongoing;2018;0;0;0;0;0;0;0;0;;0;200;0;0;0;0;0;0;;0;0;;;0;0;0;0;;;;200,0;Loan
+SOLAR;Karaganda Solar Phase II;Kazakhstan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;26,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;34,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;60,3;Loan
+ENER_LINE;South–North 500 kV power transmission line in Tajikistan;Tajikistan;Ongoing;2009;0,0;0,0;0,0;0,0;0,0;282,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;138,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;420,0;Unidentified
+ENER_INDUSTR;Energy Efficiency Facility for Industrial Enterprises, Phase 3 ;Uzbekistan;Ongoing;2018;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;200,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;200,0;Loan
+SOLAR;KAZREF – M-KAT solar power plant;Kazakhstan;Ongoing;2018;0;0;0;0;0;0;0;60;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;60,0;Loan
+ENER_SEC_REF;Energy Sector Reform;Uzbekistan;Ongoing;2020;200;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;200,0;Loan
+ENER_LINE;Modernization and Upgrade of Transmission Substations;Uzbekistan;Ongoing;2016;0,0;0,0;0,0;0,0;46,3;0,0;0,0;0,0;0,0;0,0;150,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;196,3;Loan
+ENER_LINE;Modernization and Upgrade of Transmission Substations ;Uzbekistan;Ongoing;2016;0,0;0,0;0,0;0,0;46,0;0,0;0,0;0,0;0,0;0,0;150,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;196,0;Loan
+SOLAR;Jizzakh Solar Power Project;Uzbekistan;Ongoing;2023;32,6;0,0;0,0;0,0;0,0;0,0;0,0;38,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;124,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;194,8;Loan
+GAS;Liquefied natural gas production in Taraz by Gaz Onimderi;Kazakhstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;32,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;8,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;40,0;Unidentified
+SOLAR;Uzbekistan : Samarkand Solar Power Project;Uzbekistan;Ongoing;2023;31,4;0,0;0,0;0,0;0,0;0,0;0,0;36,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;126,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;194,2;Loan
+ENER_LINE;Talimarjan Transmission Project ;Uzbekistan;Completed;2011;0,0;0,0;0,0;0,0;93,0;0,0;0,0;0,0;0,0;0,0;97,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;190,0;Loan
+ENER_P_BUILD;Clean Energy for Public Buildings in Uzbekistan ;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;42,9;0,0;0,0;0,0;0,0;0,0;143,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;185,9;Loan
+ENER_P_BUILD;Clean Energy for Buildings in Uzbekistan;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;42,9;0,0;0,0;0,0;0,0;0,0;143,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;185,9;Loan
+HYDRO;Nurek – restoration. Phase 1;Tajikistan;Ongoing;2017;0;0;0;40;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;40,0;Grant
+HYDRO;Nurek – restoration. Phase 1;Tajikistan;Ongoing;2017;0,0;60,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;60,0;Grant
+HYDRO;Nurek Hydropower Rehabilitation Project, Phase 1;Tajikistan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;325,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;325,7;Grant, Loan
+HYDRO;Uzbekistan Climate Resilience Framework;Uzbekistan;Cancelled;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;171,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;171,8;Loan
+HYDRO;Nurek Hydropower Rehabilitation Project Phase I;Tajikistan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;225,7;0,0;0,0;0,0;0,0;124,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;350,0;Grant, Loan
+HYDRO;Qairokkum HPP Climate Resilience Upgrade;Tajikistan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;38,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;88,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;126,0;Loan
+ENER_LIGHT;Bishkek Street Lighting Project;Kyrgyzstan;Cancelled;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;11,8;Loan
+SOLAR;Construction of a solar power 
+plant in Akmola Region, Republic 
+of Kazakhstan (installed capacity: 
+100 MW;Kazakhstan;Ongoing;2019;0;0;56,8;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;56,8;Loan
+HYDRO;Uch Kurgan Hydropower Plant Modernization ;Kyrgyzstan;Completed;2017;1,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,1;Technical Assistance
+HEAT_LINE;Heat Supply Improvement Project ;Kyrgyzstan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,0;Grant, Loan
+HEAT_LINE;Heat Supply Improvement Project ;Kyrgyzstan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,0;Loan
+WIND;Construction of a wind power 
+plant near the City of Ereymentau 
+(capacity: 50 MW);Kazakhstan;Ongoing;2019;0;0;55,6;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;55,6;Loan
+ENER_LINE;Vostokelectro Rehabilitation Project;Kyrgyzstan;Ongoing;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,3;Loan
+ENER_LINE;VISP – Samruk;Kazakhstan;Ongoing;2020;0;0;0;0;0;0;0;55;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;55,0;Loan
+WIND;Sainshand Wind;Mongolia;Ongoing;2017;0,0;0,0;;;0,0;0,0;0,0;31,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;90,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;121,4;Loan
+ENER_LINE;Second Energy Sector Project;Mongolia;Ongoing;2017;0,0;0,0;;;1,0;0,0;0,0;0,0;0,0;0,0;54,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;55,4;Loan, grant
+ENER_LINE;Financing of JSC Samruk-Energy 
+investment programme;Kazakhstan;Ongoing;2018;0;0;52;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;52,0;Loan
+ENER_INDUSTR;Additional Financing Energy Efficiency - Industrial Enterprises;Uzbekistan;Ongoing;2013;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;100,0;0,0;0,0;0,0;0,0;53,1;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;153,1;Loan
+ENER_LINE;Green Energy Small and Medium-Sized Enterprises Development Project ;Tajikistan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,5;0,0;0,0;0,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,4;0,0;0,0;0,0;3,2;Technical Assistance
+SOLAR;Upscaling Rural Renewable Energy - Solar PV;Mongolia;;2018;0;0;0;0;0,5;0;0;0;12;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;12,5;Grant
+ENER_LIGHT;Enhanced Partnership;Kazakhstan;Ongoing;2016;0,0;0,0;0,0;0,0;0,0;0,0;0,0;52,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;52,0;Loan
+ENER_LINE;Financial rehabilitation of the power industry;Tajikistan;Ongoing;2020;0;0;0;0;0;0;0;0;0,0;0;134;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;134,0;unidentified
+SOLAR;Burnoye-2 – solar power plant ;Kazakhstan;Ongoing;2017;0;0;0;0;0;0;0;50;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;50,0;Loan
+SOLAR;Karaganda Solar Power Plant;Kazakhstan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;24,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;Loan
+WIND;Zhanatas HPP (capacity 100 MW);Kazakhstan;Ongoing;2019;0,0;46,7;0,0;0,0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;46,7;Loan
+SOLAR;Floating Solar Energy Development;Kyrgyzstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3,0;Technical Assistance
+GAS_LINE;First stage of construction of the second branch of the Kazakhstan–China gas pipeline: Beineu–Bozoi–Kyzylorda–Shymkent. ;Kazakhstan;Ongoing;2010;0,0;0,0;0,0;0,0;0,0;0,0;1000,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3000,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4000,0;Unidentified
+HEAT_LINE;Kyzylorda District Heating;Kazakhstan;Ongoing;2014;0,0;0,0;0,0;0,0;0,0;0,0;0,0;18,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;28,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;46,0;Loan
+ENER_LINE;Financing of public-private
+partnership projects and partial
+refinancing of JSC Batys Transit
+bond-secured loan;Kazakhstan;Ongoing;2019;0;0;43,4;0,0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;43,4;Loan
+ENER_LINE;Reconnection to the Central Asian Power System Project ;Tajikistan;Ongoing;2018;35,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;40,0;Grant
+ENER_LINE;Project for the reconnection to the
+Central Asia Power System (CAREC);Tajikistan;Ongoing;2018;35,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;40,0;Grant
+ENER_LINE;Upscaling Renewable Energy Sector;Mongolia;Ongoing;2018;14,6;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;14,6;Grant
+ENER_LINE;Forward Electricity Metering Project;Uzbekistan;Ongoing;2011;150;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;150,0;Loan
+ENER_LINE;Uzbekistan Power Transmission Improvement Project ;Uzbekistan;Ongoing;2015;150,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;150,0;Loan
+ENER_LINE;North-Western Region TPL Project;Uzbekistan;;2015;150;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;;0;0;;;0;0;0;0;;;;150,0;Loan
+ENER_LINE;Privatisation and transformation 
+of Mangystau Distribution Grid 
+Company;Kazakhstan;Ongoing;2018;0;0;0;0;0;0;0;42;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;42,0;Loan
+HEAT_LINE;District Heating Energy Efficiency Project;Uzbekistan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;140,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;140,0;Loan
+SOLAR;Samarkand Solar Power Plant;Uzbekistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;26,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;104,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;131,5;Loan
+ENER_LINE;500 Kv Transmission Line Sukhan - Guzar and Substations ;Uzbekistan;Completed;2008;0,0;0,0;0,0;0,0;86,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;42,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;128,4;Loan
+ENERGY_EQUIP;SUSTAINABLE AGRICULTURE AND CLIMATE CHANGE MITIGATION PROJECT (GEF);Uzbekistan;Completed;2013;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;12,7;0,0;0,0;0,0;0,0;0,0;108,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;120,7;Loan, grant
+ENER_LINE;Modernisation of Jalalabadelektro;Kyrgyzstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;Loan
+SOLAR;Risen Solar;Kazakhstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;17,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;39,8;Loan
+SOLAR;Construction of a solar power plant 
+in Turkistan Region, Republic of 
+Kazakhstan (installed capacity: 
+50 MW);Kazakhstan;Ongoing;2020;0;0;37,9;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;37,9;Loan
+ENER_LINE;National Power Grid Strengthening Project ;Turkmenistan;Ongoing;2018;500,0;0,0;0,0;0,0;175,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;675,0;Loan
+ENER_EQUIP;Energy Storage Option for Accelerating Renewable Energy Penetration;Mongolia;Completed;2018;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,5;0,0;;;;0,5;Technical assistance
+HEAT_LINE;Heat Supply;Uzbekistan;Ongoing;2019;0;0;120;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;120,0;Loan
+SOLAR;Nur Navoi;Uzbekistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;60,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;51,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;111,0;Loan
+WIND;Uzbekistan Karakalpakstan WPP;Uzbekistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;24,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;82,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;107,4;Loan
+ENER_LINE;Support for Preparation of the Rural Electrification, Sebzor HPP and Khorog-Qozideh Power Transmission Line Projects;Tajikistan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,5;0,0;0,0;0,0;0,0;0,0;0,0;0,5;Grant
+SOLAR;KAZREF - Nomad Solar Power Plant;Kazakhstan;Ongoing;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;27,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;36,5;Loan
+HEAT_LINE;Semey District Heating;Kazakhstan;Cancelled;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;6,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;26,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;33,3;Loan
+ENER_P_BUILD;Energy-Efficient Design and Construction of Residential Buildings ;Kazakhstan;Completed;2009;0,0;0,0;0,0;0,0;24,9;0,0;0,0;0,0;0,0;7,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;32,5;Technical Assistance
+ENER_LIGHT;Promotion of Energy Efficient Lighting in Kazakhstan;Kazakhstan;Completed;2012;0,0;0,0;0,0;0,0;27,4;0,0;0,0;0,0;0,0;4,6;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;32,0;Technical Assistance
+GAS_LINE;Almaty Region Gasification;Kazakhstan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;26,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,6;Loan
+ENER_LINE;KazRef – networks modernisation;Kazakhstan;Ongoing;2019;0;0;0;0;0;0;0;30;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;30,0;Loan
+ENER_LINE;UzPowerTrade Support Facility;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;106,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;106,0;Loan
+HEAT_LINE;Aktau District Heating;Kazakhstan;Cancelled;2012;0,0;0,0;0,0;0,0;0,0;0,0;0,0;8,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;19,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;27,9;Loan
+HYDRO;Uch-Kurgan Hydropower Plant Modernization Project ;Kyrgyzstan;Ongoing;2019;100,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;115,0;Grant, Loan
+SOLAR;Navoi Scaling Solar Independent Power Producer Project;Uzbekistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,1;0,0;0,0;0,0;0,0;99,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;104,2;Loan
+ENER_LIGHT;Almaty LED;Kazakhstan;Cancelled;2014;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;27,5;Loan
+SOLAR;Kulan – solar power plant;Kazakhstan;Ongoing;2016;0;0;0;0;0;0;0;24;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;24,0;Loan
+GAS_LINE;Preparation of Gas Infrastructure Modernization in Uzbekistan;Uzbekistan;Completed;2019;0,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,2;Technical assistance
+ENER_LINE;Rural Electrification Project ;Tajikistan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;31,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;31,7;Grant
+ENER_LINE;Rural Electrification Project;Tajikistan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;31,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;31,7;Grant
+HYDRO;Construction of the Turgun 2 hydropower station by EcoEnergy LLP.;Kazakhstan;Completed;2017;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;23,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;23,3;
+ENER_P_BUILD;Energy Efficiency Project ;Kazakhstan;Ongoing;2013;0,0;0,0;0,0;0,0;1,3;0,0;0,0;0,0;0,0;21,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;23,1;Investment and Technical Assistance
+ENER_P_BUILD;Improvement of energy efficiency
+(CAREC);Kazakhstan;Ongoing;2013;0;0;0,0;0,0;1,3;0;0;0;0,0;0;21,8;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;23,1;Grant
+ENER_P_BUILD;Kazakhstan Energy Efficiency Project;Kazakhstan;Completed;2013;0,0;0,0;0,0;0,0;1,3;0,0;0,0;0,0;0,0;0,0;21,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;23,1;Grant
+HYDRO;Improvement of climate change
+sustainability of the Kayrakkum HPP;Tajikistan;Ongoing;2019;0;0;36;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;36,0;Loan
+ENER_LINE;Navoi Transmission Upgrade;Uzbekistan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;96,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;102,0;Loan
+HEAT_LINE;Tashkent DH - Tashteploenergo Project;Uzbekistan;Cancelled;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;Loan
+WIND;Bash Wind Power Project;Uzbekistan;Ongoing;2023;100,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;Loan
+GAS_LINE;Power transmission line connecting Dushanbe with distant regions;Tajikistan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Unidentified
+SOLAR;KAZREF - Universal Energy Zhangiz Solar;Kazakhstan;Completed;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;12,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;10,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,5;Loan
+WIND;Dzhankeldy Wind Power Project;Uzbekistan;Ongoing;2023;100,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;Loan
+ENER_LINE;Reduction of energy losses (Khatlon);Tajikistan;Ongoing;2019;0;0;0;0;0;0;0;25;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;25,0;Loan
+HYDRO;Kambaratinskaya HPP-2 Safety Plan Implementation;Kyrgyzstan;Ongoing;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Loan
+ENER_LINE;Kyzylorda Distribution Grid 
+Company;Kazakhstan;Ongoing;2014;0;0;0;0;0;0;0;22;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;22,0;Loan
+HEAT_LINE;Ulaanbaatar District Heating Project;Mongolia;Ongoing;2019;0,0;0,0;;;0,0;0,0;0,0;10,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;Loan, grant
+HEAT_LINE;Aktobe District Heating;Kazakhstan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;17,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;21,7;Loan
+GAS_LINE;The China-Central Asia gas pipeline, line C;Turkmenistan;Completed;2012;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;600,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;600,0;Unidentified
+SOLAR;Sermsang Khushig Khundii Solar Project;Mongolia;Ongoing;2019;18,7;0,0;;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;18,7;Loan
+ENER_LINE;Participation in the bond-secured 
+loan to JSC Kazakhstan Electricity 
+Grids Operating Company;Kazakhstan;Ongoing;2020;0;0;20,8;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;20,8;Loan
+PUBLIC_TRANS;Ulaanbaatar City Bus Fund;Mongolia;Cancelled;2019;0,0;0,0;;;0,0;0,0;0,0;30,0;;0,0;0,0;0,0;0,0;0,0;0,0;10,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;40,0;Loan, grant
+ROAD;Regional Road Development and Maintenance Project (Additional Financing);Mongolia;Ongoing;2019;120,0;0,0;;;1,2;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;121,2;Grant, loan
+ENER_EQUIP;Smart Energy System for Mongolia;Mongolia;Ongoing;2019;1,5;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,5;Technical assistance
+ENER_EQUIP;Additional Financing to Ulaanbaatar Clean Air Project;Mongolia;Ongoing;2019;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;12,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;12,0;Loan
+ENER_LINE;Khatlon Energy Loss Reduction Project;Tajikistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;16,3;0,0;0,0;0,0;0,0;0,0;0,0;38,3;Loan
+HEAT_LINE;Kostanay District Heating sub-project;Kazakhstan;Ongoing;2016;0,0;0,0;0,0;0,0;7,0;0,0;0,0;11,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;18,1;Loan
+ENER_LINE;Tajikistan Energy Efficiency Framework ;Tajikistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;47,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;110,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;157,3;Loan
+ENER_LINE;VISP: Electricity Support Facility;Uzbekistan;Ongoing;2020;0;0;0;0;0;0;0;98;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;98,0;Loan
+ENER_LINE;Uzbekenergo Muruntau Substation;Uzbekistan;Ongoing;2018;0;0;0;0;0;0;0;82,5;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;82,5;Loan
+HYDRO;Sustainable Hydropower Project ;Uzbekistan;Ongoing;2019;61,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;61,5;Loan,
+Technical Assistance
+HEAT_LINE;Ust-Kamenogorsk DH Modernisation;Kazakhstan;Ongoing;2017;0,0;0,0;0,0;0,0;6,2;0,0;0,0;9,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,5;Loan
+SOLAR;Total Eren Access M-KAT Solar Power Project;Kazakhstan;Ongoing;2019;15,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,3;Loan
+ENER_LINE;Installation of a battery energy storage system (BESS);Mongolia;Ongoing;2020;100;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0,0;0;0;0;0;0;0;0;0;0,0;0,0;0,0;103;Loan, grant
+HYDRO;Modernization of Farhad HPS by expanding capacity to 127.0 MW (1st phase);Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;55,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;55,8;Loan
+ENER_SEC_REF;Development of the energy sector;Tajikistan;Ongoing;2020;105;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;105,0;Grant, Loan
+SOLAR;Solar power plant, Samarkand;Uzbekistan;Ongoing;2020;0;0;52;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;52,0;Loan
+HEAT_LINE;Tashkent DH - Tashteplocentral Project;Uzbekistan;Cancelled;2018;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;Loan
+GAS_LINE;Preparing the TAPI Gas Pipeline Project (Phase 1);Turkmenistan;Ongoing;2020;0,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,8;Technical assistance
+ENER_LINE;Tajikistan Power Utility Financial Recovery;Tajikistan;Ongoing;2020;0,0;0,0;0,0;0,0;305,1;0,0;0,0;0,0;0,0;0,0;134,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;439,1;Grant
+GAS_LINE;Bokhtar oil and gas field development;Tajikistan;Ongoing;2013;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;100,0;Unidentified
+ENER_LIGHT;Pavlodar SL Modernisation;Kazakhstan;Cancelled;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;13,4;Loan
+GAS_LINE;The Central Asia–China gas pipeline includes three lines. Pipelines A and B are exclusively dedicated to importing gas from Turkmenistan;Turkmenistan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7310,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7310,0;Unidentified
+GAS_LINE;Tajik section of line D of the China–Central Asia gas pipeline;Tajikistan;Ongoing;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3188,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3188,0;Unidentified
+HYDRO;Nurek Hydropower Rehabilitation Project Phase 2;Tajikistan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;50,0;Grant
+PUBLIC_TRANS;Regional : Implementation of Sustainable Transport For All;Regional;Ongoing;2017;4,1;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;6,1;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;10,2;Technical assistance
+RAIL;Railway Sector Development in Central Asia Regional Economic Cooperation Countries;Regional;Ongoing;2018;2,5;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,5;Technical assistance
+ROAD;Regional : Central Asia Regional Economic Cooperation: Midterm Review of the Transport and Trade Facilitation Strategy and Implementation Action Plan;Regional;Completed;2012;1,7;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,7;Technical assistance
+ROAD;Regional : Central Asia Regional Economic Cooperation: Knowledge Sharing and Services in Transport and Transport Facilitation (Phase 2);Regional;Ongoing;2019;1,4;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;1,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;2,4;Technical assistance
+ROAD;Regional : Enhancing Road Safety for Central Asia Regional Economic Cooperation Member Countries (Phase 2);Regional;Ongoing;2020;1,5;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,5;Technical assistance
+HEAT_LINE;Additional Financing to Heat Supply Improvement Project;Kyrgyzstan;Ongoing;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,7;Grant
+SOLAR;KAZREF - Zhanakorgan Solar 1;Kazakhstan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;7,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;3,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;10,0;Loan
+ENER_LIGHT;GrCF2 W2 E2 - East KZ Municipal SL, Phase 2;Kazakhstan;Ongoing;2022;0,0;0,0;0,0;0,0;1,8;0,0;0,0;8,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,9;Loan
+SOLAR;Construction of a solar power plant 
+in Kyzylorda Region, Republic of 
+Kazakhstan (installed capacity: 
+10 MW);Kazakhstan;Ongoing;2020;0;0;8,9;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;8,9;Loan
+GAS_LINE;Syr Darya Energy Project;Uzbekistan;Ongoing;2020;0;0;0;0;0;0;0;200;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;200,0;Loan
+GAS_PLANT;Two combined heat and power plants in Dushanbe;Tajikistan;Completed;2014;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;350,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;350,0;Unidentified
+ENER_LIGHT;Kyzylorda Street Lighting Project;Kazakhstan;Cancelled;2016;0,0;0,0;0,0;0,0;1,4;0,0;0,0;6,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;8,1;Loan
+ENER_LINE;Sarimay-Djankeldy Transmission ;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;47,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;47,1;Loan
+HYDRO;Rehabilitation of HPP-23;Uzbekistan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;36,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;36,0;Loan
+ENER_INDUSTR;Energy Efficiency Facility for Industrial Enterprises;Uzbekistan;Ongoing;2010;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;25,0;0,0;0,0;0,0;0,0;9,6;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;34,6;Loan
+SOLAR;Baikonyr Solar Power Project;Kazakhstan;Ongoing;2017;4,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,1;Loan
+ENER_LINE;Reduction of energy costs (Dushanbe);Tajikistan;Ongoing;2020;0;0;0;0;0;0;0;25;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;25,0;Loan
+ENER_LINE;Tajikistan’s energy efficiency;Tajikistan;Ongoing;2020;0;0;0;0;0;0;0;52;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;52,0;Loan
+HYDRO;Construction of 69.0 MW small HPS cascade Zarchob on Tupalang River;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;29,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;29,1;Loan
+GAS_LINE;Kaztransgaz;Kazakhstan;Ongoing;2020;0;0;0;0;0;0;0;290;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;290,0;Loan
+HEAT_LINE;Ulaanbaatar Heating Sector Improvement Project;Mongolia;Ongoing;2020;0,0;0,0;;;0,0;0,0;0,0;0,0;0,0;0,0;41,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;41,0;Loan
+ENER_EQUIP;Dushanbe Energy Loss Reduction Project ;Tajikistan;Ongoing;2020;0,0;0,0;;;0,0;0,0;0,0;25,0;;0,0;0,0;0,0;0,0;0,0;0,0;85,3;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;110,3;Loan
+ENER_EQUIP;First Utility-Scale Energy Storage Project;Mongolia;Ongoing;2020;103,0;0,0;;;12,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;115,0;Grant, loan
+SOLAR_WIND;Supporting Renewable Energy Development;Mongolia;Ongoing;2020;1,4;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,4;Technical assistance
+GAS_PLANT;Tashkent Power Loan;Uzbekistan;Cancelled;2020;0,0;0,0;;;0,0;0,0;0,0;190,6;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;190,6;Loan
+GAS_PLANT;VISP: Electricity Support Facility;Uzbekistan;Ongoing;2020;0,0;0,0;;;0,0;0,0;0,0;90,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;90,0;Loan
+WIND;Uzbekistan Wind Guarantee;Uzbekistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;24,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;28,0;Guarantee
+HEAT_LINE;Karaganda District Heating Network Rehabilitation Project;Kazakhstan;Completed;2012;1,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,6;Technical Assistance
+HEAT_LINE;GrCF2 W2 - Dushanbe District Heating Project;Tajikistan;Ongoing;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;10,0;Loan
+ENERGY_EQUIP;Gas Sector Development in Kazakhstan;Kazakhstan;Completed;2019;0,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,2;Technical Assistance
+HYDRO;Modernization of Lower Cascade–Boysun HPS (HPS No. 14) to 15.0 MW;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;25,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,8;Loan
+HYDRO;Additional Financing to Nurek Phase 2;Tajikistan;Ongoing;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;65,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;65,0;Grant
+ENER_LINE;Additional Financing to Rural Electrification Project;Tajikistan;Ongoing;2021;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;10,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;10,0;Grant
+PUBLIC_TRANS;Ulaanbaatar Sustainable Urban Transport Project;Mongolia;Ongoing;2021;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;100,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;100,0;Loan
+ROAD;Ulaanbaatar Traffic Management Improvement;Mongolia;Ongoing;2021;7,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;7,0;Loan
+ENER_EQUIP;Regional : Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System - Modernization of Coordinating Dispatch Center Energiya (Subproject 1);Regional;Ongoing;2019;1,2;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;2,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;3,2;Technical assistance
+GAS_PLANT;Syrdarya Power Project ;Uzbekistan;Ongoing;2021;0,0;0,0;;;0,0;0,0;0,0;200,0;;0,0;0,0;0,0;0,0;0,0;0,0;823,6;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1023,6;Loan
+HYDRO;Rehabilitation of HPP-18;Uzbekistan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;25,0;Loan
+HEAT_LINE;Renewable Heating Demonstration in Remote Areas;Mongolia;Ongoing;2022;0,0;0,0;;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;Grant
+HYDRO;Rehabilitation of HPP-19;Uzbekistan;Cancelled;2020;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,4;Loan
+HYDRO;Rehabilitation of HPP-22;Uzbekistan;Cancelled;2019;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;22,0;Loan
+HYDRO;Modernization of Cascade–Tashkentskiy HPS (HPS No. 9) to 16.6 MW;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;21,7;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;21,7;Loan
+SOLAR;Navoi Solar Power Project ;Uzbekistan;Ongoing;2020;17,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;17,5;Loan
+COAL_GAS;GrCF2 W2 Almaty CHP Modernisation;Kazakhstan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;277,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;435,9;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;713,1;Loan
+ENERGY_EQUIP;Sustainable Coal Fired Power Generation – Technical Assistance to Improve Energy Efficiency and Environmental Performance ;Kazakhstan;Ongoing;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,1;Technical Assistance
+HYDRO;Chakan GES Modernization;Kyrgyzstan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,5;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;14,9;Loan
+HYDRO;Modernization of the branch of Shakhrikhan Southern Ferghana Canal-2 cascades HPS to 7.05 MW;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;15,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,4;Loan
+ENERGY_EQUIP;DFF - Tashkent Pipe Plant-GET ;Uzbekistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;15,0;Loan
+ENER_LINE;Additional Financing to Power Utility Financial Recovery Project;Tajikistan;Ongoing;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;80,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;80,0;Grant
+HYDRO;Construction of 8.0 MW Kamolot small hydropower station (HPS);Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;13,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;13,1;Loan
+HYDRO;Construction of a 12.0 MW small HPS on the Big Ferghana Channel;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;12,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;12,0;Loan
+ENER_LINE;Akmola Electricity Distribution Network Modernization and Expansion Project;Kazakhstan;Completed;2013;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;Loan
+HYDRO;Modernization of Cascade–Kadirinskiy HPS (HPS No. 3) to 15.34 MW;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;9,8;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,8;Loan
+GAS;Construction of two small-scale plants for the production of liquefied natural gas in Rudny and Taraz;Kazakhstan;Proposed;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0;0,0;0,0;Investment project
+GAS_LINE;Construction of two automobile gas storage compressor stations in the city of Almaty;Kazakhstan;Proposed;2022;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Investment project
+ENER_LINE;Choir-Sainshand transmission line;Mongolia;Ongoing;2022;0,0;0,0;;;0,0;0,0;0,0;70,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;75,5;Loan
+ENER_EQUIP;Regional : Support for Innovation and Technology Partnerships in Asia and the Pacific - Energy Sector High-Level Technology Application (Subproject 2);Regional;Ongoing;2019;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;1,5;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;1,5;Technical assistance
+HYDRO;Strategic Planning for Small and Medium-Sized Hydropower Development ;Kazakhstan;Completed;2008;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Technical Assistance
+LOG;Mongolia Transport Connectivity and Logistics improvement project;Mongolia;Ongoing;2022;0,0;0,0;;;2,0;0,0;0,0;0,0;;0,0;110,0;0,0;0,0;0,0;0,0;20,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;132,0;Loan
+ROAD;Ulaanbaatar Darkhan Road;Mongolia;Ongoing;2022;0,0;0,0;;;0,0;0,0;0,0;157,0;;0,0;0,0;0,0;0,0;0,0;0,0;13,7;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;170,7;Loan
+ROAD;Ulaanbaatar Sustainable Urban Transport Project Additional Financing;Mongolia;Ongoing;2022;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;2,7;0,0;;;;2,7;Loan
+HYDRO;Technical Assistance for Financing Framework for Rogun Hydropower Project;Tajikistan;Ongoing;2023;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;0,0;0,0;15,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;20,0;Grant
+HYDRO;Construction of 18.0 MW small HPS Kamchik on Ahangaran River;Uzbekistan;Completed;2018;0,0;0,0;0,0;0,0;0,0;9,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;9,3;Loan
+HYDRO;Construction of 12.0 MW small HPS Tuyabuguz at the water reservoir;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;8,1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;8,1;Loan
+HYDRO;Modernization of the branch of Shakhrikhan Southern Ferghana Canal-1 cascades HPS to 7.05 MW;Uzbekistan;Completed;2017;0,0;0,0;0,0;0,0;0,0;5,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,2;Loan
+SOLAR;Project of an independent solar power
+generating company in Navoiy;Uzbekistan;Ongoing;2020;0;0;0;0;0;0;0;0;0,0;0;5;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;5,0;Unidentified
+SOLAR;Solar Energy Development;Uzbekistan;Completed;2011;2,3;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,3;Technical assistance
+SOLAR;Promoting Distributed Solar Photovoltaic Systems for Enhanced Access to Energy;Uzbekistan;Ongoing;2020;1,4;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,4;Technical assistance
+ENERGY_EQUIP;Takhiatash Power Plant Efficiency Improvement Project ;Uzbekistan;Completed;2012;1,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,2;Technical assistance
+SOLAR;Second Solar Power Project;Uzbekistan;Completed;2016;1,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;1,0;Technical assistance
+COAL_GAS;ALES Energy Transition and Modernization Project;Kazakhstan;Ongoing;2023;212,6;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;212,6;Loan
+SOLAR;Design and Strengthening of the Solar Energy Institute;Uzbekistan;Completed;2011;0,2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,2;Technical assistance
+HYDRO;Rural Renewable Energy Development;Uzbekistan;Completed;2015;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Technical assistance
+ENER_SEC_REF;TAF: Supporting Energy-Saving Regulation and Energy Efficiency Investments in Mongolia;Mongolia;Ongoing;2023;0,23;0;0;0;0;0;0;0;0,0;0;0;0;0;0;0;0;0;0,0;0;0;0;0,0;0;0;0;0;0,0;0,0;0,0;0,2;Grant
+GAS_LINE;Development of 6 road gas compressor stations on highways of the Republic of Kazakhstan, purchase of 16 units (8 fueling points) of mobile road gas fuelers;Kazakhstan;Proposed;2023;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;Investment project
+ENER_EQUIP;Resilient and Sustainable Tajikistan DPO;Tajikistan;Ongoing;2023;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;50,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;50,0;Grant
+ROAD;Third Ulaanbaatar Urban Services Improvement Project;Mongolia;Cancelled;N/A;0,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;20,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;20,0;Loan
+ROAD;Regional Road Development and Maintenance Project (Phase 3);Mongolia;Proposed;N/A;150,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;150,0;Loan
+SOLAR_WIND;Supporting Renewable Energy Development;Mongolia;Proposed;N/A;140,0;0,0;;;0,0;0,0;0,0;0,0;;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;;0,0;0,0;;;0,0;0,0;0,0;0,0;;;;140,0;Loan

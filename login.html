@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script>
+    window.tailwind = window.tailwind || {};
+    tailwind.config = tailwind.config || {};
+    tailwind.config.darkMode = 'class';
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="script.js" defer></script>
+  <title>Cyber X — Login/Register</title>
+</head>
+
+<body class="bg-gradient-to-b from-gray-900 via-slate-900 to-gray-800 text-gray-100 parallax-bg">
+
+<nav class="w-full flex items-center justify-between py-4 px-6 bg-white dark:bg-gray-900 shadow-md relative z-10">
+  <a href="index.html" class="flex items-center gap-2">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="18" height="18" rx="3" stroke="currentColor" stroke-width="1.2"/><path d="M7 12h10" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round"/></svg>
+    <span class="text-xl font-bold text-gray-900 dark:text-white">Cyber X</span>
+  </a>
+  <ul class="flex gap-8 text-gray-700 dark:text-gray-300 font-semibold">
+    <li><a href="index.html" class="hover:text-sky-500">Home</a></li>
+    <li><a href="about.html" class="hover:text-sky-500">About</a></li>
+    <li><a href="login.html" class="hover:text-sky-500">Login/Register</a></li>
+  </ul>
+</nav>
+
+<section class="px-6 py-16 flex items-center justify-center min-h-screen animate-fadeIn">
+  <div class="w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+
+    <!-- Login Card -->
+    <div id="login-card" class="bg-white dark:bg-gray-900 p-8 rounded-2xl shadow-lg">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-4">Login</h2>
+      <p class="text-sm text-gray-600 dark:text-gray-300 mb-6">Welcome back — sign in to access your companies and missions.</p>
+
+      <input id="login-email" class="w-full mb-4 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="email" placeholder="Email"/>
+      <input id="login-password" class="w-full mb-6 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="password" placeholder="Password"/>
+
+      <button id="login-btn" class="w-full py-3 bg-sky-500 text-white rounded-lg hover:bg-sky-600">Login</button>
+
+      <div class="mt-6 text-sm text-gray-700 dark:text-gray-300">
+        Don't have an account? <button onclick="showAuthView('register')" class="text-cyan-500 font-semibold">Create one</button>
+      </div>
+    </div>
+
+    <!-- Register Card -->
+    <div id="register-card" class="bg-white dark:bg-gray-900 p-8 rounded-2xl shadow-lg hidden">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-4">Register</h2>
+      <p class="text-sm text-gray-600 dark:text-gray-300 mb-6">Create an account to build companies and join raids.</p>
+
+      <input id="reg-name" class="w-full mb-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="text" placeholder="Full Name"/>
+      <input id="reg-email" class="w-full mb-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="email" placeholder="Email"/>
+      <input id="reg-password" class="w-full mb-5 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="password" placeholder="Password"/>
+
+      <button id="register-btn" class="w-full py-3 bg-green-500 text-white rounded-lg hover:bg-green-600">Register</button>
+
+      <div class="mt-6 text-sm text-gray-700 dark:text-gray-300">
+        Already have an account? <button onclick="showAuthView('login')" class="text-cyan-500 font-semibold">Sign in</button>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+</body>
+</html>
