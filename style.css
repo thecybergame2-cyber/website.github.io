@@ -1,54 +1,182 @@
-
+/* BASIC ANIMATIONS */
 @keyframes fadeInUp { from {opacity: 0; transform: translateY(20px);} to {opacity:1; transform: translateY(0);} }
-@keyframes fadeIn { from{opacity:0;} to{opacity:1;} }
-@keyframes zoomIn { from{transform:scale(0.8); opacity:0;} to{transform:scale(1); opacity:1;} }
+@keyframes fadeIn   { from {opacity:0;} to {opacity:1;} }
 
-.animate-fadeInUp { animation: fadeInUp 0.8s ease-out; }
-.animate-fadeIn { animation: fadeIn 1s ease-out; }
-.animate-zoomIn { animation: zoomIn 1s ease-out; }
+/* Floating + zoom – island clearly bigger now */
+@keyframes floatIsland {
+  0%   { transform: translateY(0) scale(2.0); }
+  50%  { transform: translateY(-12px) scale(2.15); }
+  100% { transform: translateY(0) scale(2.0); }
+}
 
 :root{
-	--card-bg: rgba(15,23,42,0.6);
-	--glass: rgba(255,255,255,0.04);
+  --card-bg: rgba(15,23,42,0.6);
+  --glass: rgba(255,255,255,0.04);
 }
 
-body{font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial}
+body{
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
 
-.logo-glow{background:linear-gradient(135deg, rgba(6,182,212,0.12), rgba(96,165,250,0.08)); box-shadow: 0 6px 20px rgba(8,145,178,0.06);}
+.logo-glow{
+  background:linear-gradient(135deg, rgba(6,182,212,0.12),
+                                     rgba(96,165,250,0.08));
+  box-shadow: 0 6px 20px rgba(8,145,178,0.06);
+}
 
-.cyber-card{background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border:1px solid rgba(255,255,255,0.04); backdrop-filter: blur(6px);}
+.cyber-card{
+  background: linear-gradient(180deg, rgba(255,255,255,0.02),
+                                     rgba(255,255,255,0.01));
+  border:1px solid rgba(255,255,255,0.04);
+  backdrop-filter: blur(6px);
+}
 
-.feature-card{background:var(--card-bg); padding:18px; border-radius:12px; border:1px solid rgba(255,255,255,0.04);}
-.feature-card .icon{background:linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); width:56px; height:56px; border-radius:10px; display:flex; align-items:center; justify-content:center; margin-bottom:8px}
+.feature-card{
+  background:var(--card-bg);
+  padding:18px;
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,0.04);
+}
+.feature-card .icon{
+  background:linear-gradient(90deg, rgba(255,255,255,0.02),
+                                   rgba(255,255,255,0.01));
+  width:56px;
+  height:56px;
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:8px;
+}
 
-.btn-outline{padding:8px 12px; border-radius:10px; border:1px solid rgba(125,211,252,0.18); color:#7dd3fc; background:transparent; font-weight:600}
-.btn-outline:hover{background:rgba(125,211,252,0.06)}
+.btn-outline{
+  padding:8px 12px;
+  border-radius:10px;
+  border:1px solid rgba(125,211,252,0.18);
+  color:#7dd3fc;
+  background:transparent;
+  font-weight:600;
+}
+.btn-outline:hover{
+  background:rgba(125,211,252,0.06);
+}
 
-.feature-detail{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); padding:14px; border-radius:10px; border:1px solid rgba(255,255,255,0.04)}
+.feature-detail{
+  background:linear-gradient(180deg, rgba(255,255,255,0.02),
+                                   rgba(255,255,255,0.01));
+  padding:14px;
+  border-radius:10px;
+  border:1px solid rgba(255,255,255,0.04);
+}
 
-/* smaller screens spacing tweaks */
+/* spacing tweaks */
 @media (max-width:640px){
-	.cyber-card{margin-top:10px}
+  .cyber-card{margin-top:10px}
 }
 
-.container{max-width:1180px; margin-left:auto; margin-right:auto}
+.container{
+  max-width:1180px;
+  margin-left:auto;
+  margin-right:auto;
+}
 
-/* Header-specific background (clouds) - only applies to the hero header */
+/* HERO BACKGROUND WITH CLOUDS */
 .hero-bg{
-	background-image: url('assets/clouds.png');
-	background-position: center top;
-	background-repeat: no-repeat;
-	background-size: cover;
+  background-image: url('assets/clouds.png');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
+/* overlay: dark vignette on left behind text, softer on right for island */
 .hero-bg::before{
-	content: '';
-	position: absolute;
-	inset: 0;
-	background: linear-gradient(180deg, rgba(2,6,23,0.6), rgba(2,6,23,0.4));
-	pointer-events: none;
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 18% 30%, rgba(15,23,42,0.9), transparent 55%),
+    linear-gradient(180deg, rgba(15,23,42,0.55), rgba(15,23,42,0.2));
+  pointer-events: none;
 }
 
-.hero-bg > .container{position:relative; z-index:1}
+/* keep hero content above overlay */
+.hero-bg > .container{
+  position:relative;
+  z-index:1;
+}
 
-/* keep keyframes in file for subtle entrance */
+/* HERO TEXT – no card, just clean but readable */
+.hero-copy h1{
+  color:#ffffff;
+  text-shadow: 0 4px 16px rgba(0,0,0,0.9);
+}
+
+.hero-copy-body{
+  color:#e5f6ff;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.85);
+}
+
+.hero-copy-sub{
+  color:#dbeafe;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.8);
+}
+
+/* FLOATING ISLAND – bigger + centered in its column */
+.hero-illustration-wrapper{
+  position:relative;
+  width:460px;
+  height:340px;
+  overflow:visible;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.hero-illustration{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:contain;           /* keep proportions */
+  transform-origin:center center;
+  animation: floatIsland 7s ease-in-out infinite;
+  filter: drop-shadow(0 28px 60px rgba(0,0,0,0.7));
+}
+
+/* responsive island sizing for symmetry */
+@media (min-width:1280px){
+  .hero-illustration-wrapper{
+    width:520px;
+    height:380px;
+  }
+}
+@media (max-width:1024px){
+  .hero-illustration-wrapper{
+    width:420px;
+    height:320px;
+  }
+}
+@media (max-width:768px){
+  .hero-illustration-wrapper{
+    margin-top:2rem;
+    width:360px;
+    height:280px;
+  }
+}
+
+/* cyan glow/shadow under the island */
+.floating-glow{
+  position:absolute;
+  left:50%;
+  bottom:-22px;
+  transform:translateX(-50%);
+  width:70%;
+  height:32px;
+  background: radial-gradient(circle,
+              rgba(56,189,248,0.85),
+              transparent 70%);
+  opacity:0.95;
+  filter:blur(12px);
+  pointer-events:none;
+  z-index:-1;
+}

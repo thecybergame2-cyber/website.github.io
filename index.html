@@ -1,156 +1,198 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <script>
-    // Use class strategy for dark mode with the CDN build
+    // Tailwind dark mode config
     window.tailwind = window.tailwind || {};
     tailwind.config = tailwind.config || {};
-    tailwind.config.darkMode = 'class';
+    tailwind.config.darkMode = "class";
   </script>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="style.css" />
   <script src="script.js" defer></script>
   <title>Cyber X — Gamified Cybersecurity</title>
 </head>
 
 <body class="bg-gradient-to-b from-gray-900 via-slate-900 to-gray-800 text-gray-100">
 
-<nav class="w-full flex items-center justify-between py-4 px-6 bg-transparent">
-  <a href="index.html" class="flex items-center gap-3">
-    <div class="logo-glow w-10 h-10 rounded-md flex items-center justify-center">
-      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="18" height="18" rx="3" stroke="white" stroke-opacity="0.9" stroke-width="1.2"/><path d="M7 12h10" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round"/></svg>
-    </div>
-    <span class="text-2xl font-extrabold tracking-tight">Cyber X</span>
-  </a>
-  <ul class="flex gap-6 text-slate-200 font-medium">
-    <li><a href="index.html" class="hover:text-cyan-300">Home</a></li>
-    <li><a href="about.html" class="hover:text-cyan-300">About</a></li>
-    <li><a href="login.html" class="hover:text-cyan-300">Login/Register</a></li>
-  </ul>
-</nav>
-
-<!-- Hero -->
-<header class="relative overflow-hidden px-6 py-16 md:py-24 hero-bg">
-  <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-    <div class="space-y-6 max-w-xl">
-      <h1 class="text-4xl md:text-5xl font-extrabold leading-tight">Cyber App — Learn Cybersecurity by Playing</h1>
-      <p class="text-slate-300">Cyber App is a gamified cybersecurity learning world for kids and teens (10–25). Create companies, defend them, launch raids, complete missions, and level up your skills inside a futuristic cyber world.</p>
-      <div class="flex gap-4">
-        <a href="login.html" class="px-6 py-3 bg-cyan-500 text-slate-900 rounded-lg font-semibold shadow hover:scale-105 transform transition">Get Started</a>
-        <button onclick="document.getElementById('features').scrollIntoView({behavior:'smooth'})" class="px-6 py-3 border border-cyan-500 text-cyan-300 rounded-lg">Explore Features</button>
+  <!-- NAVBAR -->
+  <nav class="w-full flex items-center justify-between py-4 px-6 bg-transparent">
+    <a href="index.html" class="flex items-center gap-3">
+      <div class="logo-glow w-10 h-10 rounded-md flex items-center justify-center">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="3" y="3" width="18" height="18" rx="3" stroke="white" stroke-opacity="0.9" stroke-width="1.2" />
+          <path d="M7 12h10" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round" />
+        </svg>
       </div>
-      <div class="mt-4 text-sm text-slate-400">Designed for learners — play ethically, learn to protect.</div>
-    </div>
+      <span class="text-2xl font-extrabold tracking-tight">Cyber X</span>
+    </a>
+    <ul class="flex gap-6 text-slate-200 font-medium">
+      <li><a href="index.html" class="hover:text-cyan-300">Home</a></li>
+      <li><a href="about.html" class="hover:text-cyan-300">About</a></li>
+      <li><a href="login.html" class="hover:text-cyan-300">Login/Register</a></li>
+    </ul>
+  </nav>
 
-    <!-- <div class="relative">
-      <div class="cyber-card p-6 rounded-2xl shadow-2xl">
-        <div class="flex items-center justify-between mb-4">
-          <div class="text-slate-200 font-semibold">Reputation</div>
-          <div class="text-cyan-300 font-bold">Level 7</div>
+  <!-- HERO -->
+  <header class="relative overflow-hidden px-6 py-16 md:py-24 hero-bg">
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
+
+      <!-- LEFT – COPY (NO CARD) -->
+      <div class="space-y-6 max-w-xl hero-copy">
+        <h1 class="text-4xl md:text-5xl font-extrabold leading-tight text-white">
+          Cyber App — Learn Cybersecurity by Playing
+        </h1>
+        <p class="text-base md:text-lg text-slate-100 hero-copy-body">
+          Cyber App is a gamified cybersecurity learning world for kids and teens (10–25). Create companies,
+          defend them, launch raids, complete missions, and level up your skills inside a futuristic cyber world.
+        </p>
+        <div class="flex gap-4">
+          <a href="login.html"
+             class="px-6 py-3 bg-cyan-500 text-slate-900 rounded-lg font-semibold shadow hover:scale-105 transform transition">
+            Get Started
+          </a>
+          <button
+            onclick="document.getElementById('features').scrollIntoView({behavior:'smooth'})"
+            class="px-6 py-3 border border-cyan-500 text-cyan-300 rounded-lg">
+            Explore Features
+          </button>
         </div>
-        <div class="bg-slate-800 rounded-lg p-4">
-          <div class="w-full h-3 rounded bg-slate-700 overflow-hidden">
-            <div class="h-3 bg-gradient-to-r from-cyan-400 to-sky-500" style="width:64%"></div>
+        <div class="mt-2 text-sm hero-copy-sub">
+          Designed for learners — play ethically, learn to protect.
+        </div>
+      </div>
+
+      <!-- RIGHT – BIG FLOATING ISLAND -->
+      <div class="flex justify-center md:justify-end items-center">
+        <div class="hero-illustration-wrapper">
+          <div class="floating-glow"></div>
+          <img
+            src="assets/mountain.png"
+            alt="Cyber App floating cybersecurity island"
+            class="hero-illustration" />
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- FEATURES -->
+  <section id="features" class="px-6 py-12">
+    <div class="container mx-auto max-w-6xl">
+      <h2 class="text-2xl font-bold mb-6">Core Game Modes</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <article class="feature-card">
+          <div class="icon">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none">
+              <path d="M12 2v6" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round" />
+              <rect x="3" y="8" width="18" height="12" rx="2" stroke="#7dd3fc" stroke-width="1.2" />
+            </svg>
           </div>
-          <div class="mt-3 text-xs text-slate-400">Secure your company to increase reputation and unlock missions.</div>
-        </div>
-        <div class="mt-5 grid grid-cols-3 gap-3 text-center text-xs text-slate-300">
-          <div><div class="text-sm font-bold text-cyan-300">42</div> Missions</div>
-          <div><div class="text-sm font-bold text-cyan-300">18</div> Companies</div>
-          <div><div class="text-sm font-bold text-cyan-300">12</div> Raids</div>
-        </div>
-      </div>
-      <svg class="absolute -right-20 -top-8 opacity-20" width="280" height="280" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.5"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0.3"/></linearGradient></defs><circle cx="100" cy="100" r="90" fill="url(#g1)"/></svg>
-    </div>
-  </div> -->
-</header>
+          <h3 class="font-semibold">Hack & Run</h3>
+          <p class="text-slate-400 text-sm">
+            Engage in ethical hacking missions: solve quizzes and technical challenges to breach a target's defenses.
+            Targets are player-run companies that set up puzzles and traps for attackers.
+          </p>
+          <div class="mt-3">
+            <button class="btn-outline" onclick="showFeature('hack')">Read details</button>
+          </div>
+        </article>
 
-<!-- Features -->
-<section id="features" class="px-6 py-12">
-  <div class="container mx-auto max-w-6xl">
-    <h2 class="text-2xl font-bold mb-6">Core Game Modes</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      <article class="feature-card">
-        <div class="icon">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none"><path d="M12 2v6" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round"/><rect x="3" y="8" width="18" height="12" rx="2" stroke="#7dd3fc" stroke-width="1.2"/></svg>
-        </div>
-        <h3 class="font-semibold">Hack & Run</h3>
-        <p class="text-slate-400 text-sm">Engage in ethical hacking missions: solve quizzes and technical challenges to breach a target's defenses. Targets are player-run companies that set up puzzles and traps for attackers.</p>
-        <div class="mt-3">
-          <button class="btn-outline" onclick="showFeature('hack')">Read details</button>
-        </div>
-      </article>
+        <article class="feature-card">
+          <div class="icon">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none">
+              <path d="M4 7h16" stroke="#60a5fa" stroke-width="1.4" stroke-linecap="round" />
+              <path d="M7 11v6" stroke="#60a5fa" stroke-width="1.4" stroke-linecap="round" />
+            </svg>
+          </div>
+          <h3 class="font-semibold">Build Your Company</h3>
+          <p class="text-slate-400 text-sm">
+            Design infrastructure, pick services, and harden systems. Make architecture choices that influence
+            your company's attack surface and reputation.
+          </p>
+          <div class="mt-3">
+            <button class="btn-outline" onclick="showFeature('build')">Read details</button>
+          </div>
+        </article>
 
-      <article class="feature-card">
-        <div class="icon">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none"><path d="M4 7h16" stroke="#60a5fa" stroke-width="1.4" stroke-linecap="round"/><path d="M7 11v6" stroke="#60a5fa" stroke-width="1.4" stroke-linecap="round"/></svg>
-        </div>
-        <h3 class="font-semibold">Build Your Company</h3>
-        <p class="text-slate-400 text-sm">Design infrastructure, pick services, and harden systems. Make architecture choices that influence your company's attack surface and reputation.</p>
-        <div class="mt-3"><button class="btn-outline" onclick="showFeature('build')">Read details</button></div>
-      </article>
-
-      <article class="feature-card">
-        <div class="icon">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none"><path d="M3 12h18" stroke="#34d399" stroke-width="1.4" stroke-linecap="round"/></svg>
-        </div>
-        <h3 class="font-semibold">Cyber Academy</h3>
-        <p class="text-slate-400 text-sm">Take courses on networking, cryptography, secure coding, and defense. Apply what you learn to build an almost unhackable company — if you do the work.</p>
-        <div class="mt-3"><button class="btn-outline" onclick="showFeature('academy')">Read details</button></div>
-      </article>
-    </div>
-
-    <!-- Feature detail panes -->
-    <div id="feature-details" class="mt-8 space-y-6">
-      <div id="hack" class="feature-detail hidden">
-        <h4 class="text-lg font-bold">Hack & Run — How it Works</h4>
-        <p class="text-slate-300">Players can create challenge rooms inside their companies: quizzes, CTF-style tasks, logic puzzles, or configuration challenges. Attackers attempt to break in by solving these puzzles under rules that encourage learning and fair play. Successful attacks earn loot, reputation, and new mission types.</p>
+        <article class="feature-card">
+          <div class="icon">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none">
+              <path d="M3 12h18" stroke="#34d399" stroke-width="1.4" stroke-linecap="round" />
+            </svg>
+          </div>
+          <h3 class="font-semibold">Cyber Academy</h3>
+          <p class="text-slate-400 text-sm">
+            Take courses on networking, cryptography, secure coding, and defense. Apply what you learn to build
+            an almost unhackable company — if you do the work.
+          </p>
+          <div class="mt-3">
+            <button class="btn-outline" onclick="showFeature('academy')">Read details</button>
+          </div>
+        </article>
       </div>
 
-      <div id="build" class="feature-detail hidden">
-        <h4 class="text-lg font-bold">Build Your Company</h4>
-        <p class="text-slate-300">Choose services, deploy simulated servers, configure firewalls and monitoring, and buy security upgrades. Companies can hire advisors and set bounty-like challenge puzzles to test employees and the community.</p>
+      <!-- Feature detail panes -->
+      <div id="feature-details" class="mt-8 space-y-6">
+        <div id="hack" class="feature-detail hidden">
+          <h4 class="text-lg font-bold">Hack & Run — How it Works</h4>
+          <p class="text-slate-300">
+            Players can create challenge rooms inside their companies: quizzes, CTF-style tasks, logic puzzles, or
+            configuration challenges. Attackers attempt to break in by solving these puzzles under rules that
+            encourage learning and fair play. Successful attacks earn loot, reputation, and new mission types.
+          </p>
+        </div>
+
+        <div id="build" class="feature-detail hidden">
+          <h4 class="text-lg font-bold">Build Your Company</h4>
+          <p class="text-slate-300">
+            Choose services, deploy simulated servers, configure firewalls and monitoring, and buy security upgrades.
+            Companies can hire advisors and set bounty-like challenge puzzles to test employees and the community.
+          </p>
+        </div>
+
+        <div id="academy" class="feature-detail hidden">
+          <h4 class="text-lg font-bold">Cyber Academy</h4>
+          <p class="text-slate-300">
+            Structured learning paths cover networking fundamentals, TCP/IP, authentication, cryptography basics,
+            secure development, and attacker mindset. Lessons are hands-on and tied to in-game rewards so learning
+            unlocks new gameplay features.
+          </p>
+        </div>
       </div>
 
-      <div id="academy" class="feature-detail hidden">
-        <h4 class="text-lg font-bold">Cyber Academy</h4>
-        <p class="text-slate-300">Structured learning paths cover networking fundamentals, TCP/IP, authentication, cryptography basics, secure development, and attacker mindset. Lessons are hands-on and tied to in-game rewards so learning unlocks new gameplay features.</p>
+    </div>
+  </section>
+
+  <!-- HOW TO PLAY -->
+  <section class="px-6 py-12 border-t border-slate-700">
+    <div class="container mx-auto max-w-4xl text-slate-300">
+      <h2 class="text-2xl font-bold mb-4">Gameplay at a Glance</h2>
+      <ol class="list-decimal pl-5 space-y-3">
+        <li>Create a company — design network, services and defenses.</li>
+        <li>Join missions or set challenges for others in your company.</li>
+        <li>Attempt Hack & Run raids by solving puzzles and real-world inspired tasks.</li>
+        <li>Complete Academy lessons to unlock defensive tools and advanced missions.</li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="px-6 py-10">
+    <div class="container mx-auto max-w-6xl flex flex-col md:flex-row items-center justify-between gap-6">
+      <div>
+        <div class="text-xl font-bold">Ready to dive in?</div>
+        <div class="text-slate-400 text-sm">Play ethically — learn deeply — defend confidently.</div>
+      </div>
+      <div class="flex gap-3">
+        <a href="login.html" class="px-5 py-2 bg-cyan-500 text-slate-900 rounded-md font-semibold">Get Started</a>
+        <a href="about.html" class="px-5 py-2 border border-slate-600 rounded-md text-slate-300">Learn More</a>
       </div>
     </div>
-
-  </div>
-</section>
-
-<!-- How to Play -->
-<section class="px-6 py-12 border-t border-slate-700">
-  <div class="container mx-auto max-w-4xl text-slate-300">
-    <h2 class="text-2xl font-bold mb-4">Gameplay at a Glance</h2>
-    <ol class="list-decimal pl-5 space-y-3">
-      <li>Create a company — design network, services and defenses.</li>
-      <li>Join missions or set challenges for others in your company.</li>
-      <li>Attempt Hack & Run raids by solving puzzles and real-world inspired tasks.</li>
-      <li>Complete Academy lessons to unlock defensive tools and advanced missions.</li>
-    </ol>
-  </div>
-</section>
-
-<!-- CTA Footer -->
-<footer class="px-6 py-10">
-  <div class="container mx-auto max-w-6xl flex flex-col md:flex-row items-center justify-between gap-6">
-    <div>
-      <div class="text-xl font-bold">Ready to dive in?</div>
-      <div class="text-slate-400 text-sm">Play ethically — learn deeply — defend confidently.</div>
-    </div>
-    <div class="flex gap-3">
-      <a href="login.html" class="px-5 py-2 bg-cyan-500 text-slate-900 rounded-md font-semibold">Get Started</a>
-      <a href="about.html" class="px-5 py-2 border border-slate-600 rounded-md text-slate-300">Learn More</a>
-    </div>
-  </div>
-</footer>
+  </footer>
 
 </body>
 </html>
