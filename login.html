@@ -3,68 +3,229 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <script>
     window.tailwind = window.tailwind || {};
-    tailwind.config = tailwind.config || {};
-    tailwind.config.darkMode = 'class';
+    tailwind.config = window.tailwind.config || {};
+    tailwind.config.darkMode = "class";
   </script>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="style.css" />
   <script src="script.js" defer></script>
-  <title>Cyber X — Login/Register</title>
+  <title>Cyber X — Login</title>
 </head>
 
-<body class="bg-gradient-to-b from-gray-900 via-slate-900 to-gray-800 text-gray-100 parallax-bg">
+<body class="bg-gradient-to-b from-gray-900 via-slate-900 to-gray-950 text-gray-100">
 
-<nav class="w-full flex items-center justify-between py-4 px-6 bg-white dark:bg-gray-900 shadow-md relative z-10">
-  <a href="index.html" class="flex items-center gap-2">
-    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="18" height="18" rx="3" stroke="currentColor" stroke-width="1.2"/><path d="M7 12h10" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round"/></svg>
-    <span class="text-xl font-bold text-gray-900 dark:text-white">Cyber X</span>
-  </a>
-  <ul class="flex gap-8 text-gray-700 dark:text-gray-300 font-semibold">
-    <li><a href="index.html" class="hover:text-sky-500">Home</a></li>
-    <li><a href="about.html" class="hover:text-sky-500">About</a></li>
-    <li><a href="login.html" class="hover:text-sky-500">Login/Register</a></li>
-  </ul>
-</nav>
-
-<section class="px-6 py-16 flex items-center justify-center min-h-screen animate-fadeIn">
-  <div class="w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
-
-    <!-- Login Card -->
-    <div id="login-card" class="bg-white dark:bg-gray-900 p-8 rounded-2xl shadow-lg">
-      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-4">Login</h2>
-      <p class="text-sm text-gray-600 dark:text-gray-300 mb-6">Welcome back — sign in to access your companies and missions.</p>
-
-      <input id="login-email" class="w-full mb-4 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="email" placeholder="Email"/>
-      <input id="login-password" class="w-full mb-6 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="password" placeholder="Password"/>
-
-      <button id="login-btn" class="w-full py-3 bg-sky-500 text-white rounded-lg hover:bg-sky-600">Login</button>
-
-      <div class="mt-6 text-sm text-gray-700 dark:text-gray-300">
-        Don't have an account? <button onclick="showAuthView('register')" class="text-cyan-500 font-semibold">Create one</button>
+  <!-- NAVBAR -->
+  <nav class="w-full flex items-center justify-between py-4 px-6 bg-transparent">
+    <a href="index.html" class="flex items-center gap-3">
+      <div class="logo-glow w-10 h-10 rounded-md flex items-center justify-center">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="3" y="3" width="18" height="18" rx="3" stroke="white" stroke-opacity="0.9" stroke-width="1.2" />
+          <path d="M7 12h10" stroke="#7dd3fc" stroke-width="1.4" stroke-linecap="round" />
+        </svg>
       </div>
+      <span class="text-2xl font-extrabold tracking-tight">Cyber X</span>
+    </a>
+    <ul class="flex gap-6 text-slate-200 font-medium">
+      <li><a href="index.html" class="hover:text-cyan-300">Home</a></li>
+      <li><a href="about.html" class="hover:text-cyan-300">About</a></li>
+      <li><a href="login.html" class="hover:text-cyan-300">Login/Register</a></li>
+    </ul>
+  </nav>
+
+  <!-- MAIN AUTH LAYOUT -->
+  <main class="px-6 py-10 md:py-16">
+    <div class="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
+
+      <!-- LEFT: STORY / FEATURES -->
+      <section class="space-y-6">
+        <span
+          class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-[11px] font-semibold tracking-[0.18em] uppercase bg-slate-900/70 border border-cyan-400/40 text-cyan-200">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 shadow-[0_0_0_4px_rgba(16,185,129,0.35)]"></span>
+          Welcome back, defender
+        </span>
+
+        <h1 class="text-3xl md:text-4xl font-extrabold leading-tight">
+          Sign in and jump back into your companies, raids, and cyber missions.
+        </h1>
+
+        <p class="text-slate-300 text-sm md:text-base max-w-xl">
+          Your dashboard tracks your HQ upgrades, mission progress, and reputation. Log in to continue
+          where you left off — or create a new account and start building from scratch.
+        </p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-1 w-8 h-8 rounded-full bg-sky-500/20 border border-sky-400/60 flex items-center justify-center text-sky-300 text-xs font-bold">
+              XP
+            </div>
+            <div>
+              <p class="font-semibold text-slate-100">Track your progress</p>
+              <p class="text-slate-400 text-xs">See completed missions, unlocked tools, and rank in one place.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-1 w-8 h-8 rounded-full bg-emerald-500/15 border border-emerald-400/60 flex items-center justify-center text-emerald-300 text-xs font-bold">
+              HQ
+            </div>
+            <div>
+              <p class="font-semibold text-slate-100">Manage your company</p>
+              <p class="text-slate-400 text-xs">Upgrade defences, assign missions, and review attack reports.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-1 w-8 h-8 rounded-full bg-indigo-500/15 border border-indigo-400/60 flex items-center justify-center text-indigo-300 text-xs font-bold">
+              VS
+            </div>
+            <div>
+              <p class="font-semibold text-slate-100">Compete with friends</p>
+              <p class="text-slate-400 text-xs">Climb leaderboards with ethical raids and clean defenses.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <div
+              class="mt-1 w-8 h-8 rounded-full bg-amber-500/15 border border-amber-400/60 flex items-center justify-center text-amber-300 text-xs font-bold">
+              🎓
+            </div>
+            <div>
+              <p class="font-semibold text-slate-100">Learn by doing</p>
+              <p class="text-slate-400 text-xs">Practice real concepts: phishing, passwords, logs, alerts and more.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- RIGHT: AUTH CARD -->
+      <section
+        class="relative w-full max-w-md mx-auto rounded-2xl bg-slate-950/90 border border-slate-800 shadow-[0_25px_80px_rgba(15,23,42,0.9)] overflow-hidden">
+
+        <!-- Top accent line -->
+        <div class="h-1 bg-gradient-to-r from-cyan-400 via-sky-500 to-emerald-400"></div>
+
+        <div class="p-6 md:p-8 space-y-6">
+
+          <!-- Tabs (always visible) -->
+          <div class="flex gap-2 text-sm font-semibold">
+            <button
+              id="btn-login"
+              type="button"
+              class="auth-toggle-btn auth-toggle-btn-active"
+              onclick="showAuthView('login')">
+              Login
+            </button>
+
+            <button
+              id="btn-register"
+              type="button"
+              class="auth-toggle-btn"
+              onclick="showAuthView('register')">
+              Create account
+            </button>
+          </div>
+
+          <!-- LOGIN CARD -->
+          <div id="login-card" class="space-y-6">
+            <div>
+              <h2 class="text-2xl font-bold mb-1">Login</h2>
+              <p class="text-slate-300 text-sm">
+                Welcome back — sign in to access your companies and missions.
+              </p>
+            </div>
+
+            <form class="space-y-4">
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Email</label>
+                <input type="email" placeholder="you@example.com"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Password</label>
+                <input type="password" placeholder="Enter your password"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <div class="flex items-center justify-between text-xs text-slate-400">
+                <label class="flex items-center gap-2">
+                  <input type="checkbox" class="rounded bg-slate-900 border-slate-600 text-sky-500" />
+                  <span>Remember me</span>
+                </label>
+                <button type="button" class="hover:text-sky-300">Forgot password?</button>
+              </div>
+
+              <button
+                type="submit"
+                class="w-full mt-2 inline-flex justify-center items-center rounded-lg bg-sky-500 hover:bg-sky-400 text-slate-900 font-semibold py-2.5 text-sm transition">
+                Login
+              </button>
+            </form>
+
+            <p class="text-xs text-slate-400 pt-2">
+              Don’t have an account?
+              <button type="button" onclick="showAuthView('register')" class="text-sky-300 font-semibold">
+                Create one
+              </button>
+            </p>
+          </div>
+
+          <!-- REGISTER CARD -->
+          <div id="register-card" class="space-y-6 hidden">
+            <div>
+              <h2 class="text-2xl font-bold mb-1">Create account</h2>
+              <p class="text-slate-300 text-sm">
+                Start as a rookie defender — build your first HQ and unlock your initial missions.
+              </p>
+            </div>
+
+            <form class="space-y-4">
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Name</label>
+                <input type="text" placeholder="Your name"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Email</label>
+                <input type="email" placeholder="you@example.com"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Password</label>
+                <input type="password" placeholder="Create a strong password"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <div class="space-y-1">
+                <label class="text-xs font-semibold text-slate-300">Confirm password</label>
+                <input type="password" placeholder="Repeat your password"
+                  class="w-full rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-400" />
+              </div>
+
+              <button
+                type="submit"
+                class="w-full mt-2 inline-flex justify-center items-center rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-900 font-semibold py-2.5 text-sm transition">
+                Create account
+              </button>
+            </form>
+
+            <p class="text-xs text-slate-400 pt-2">
+              Already have an account?
+              <button type="button" onclick="showAuthView('login')" class="text-sky-300 font-semibold">
+                Login instead
+              </button>
+            </p>
+          </div>
+
+        </div>
+      </section>
     </div>
-
-    <!-- Register Card -->
-    <div id="register-card" class="bg-white dark:bg-gray-900 p-8 rounded-2xl shadow-lg hidden">
-      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-4">Register</h2>
-      <p class="text-sm text-gray-600 dark:text-gray-300 mb-6">Create an account to build companies and join raids.</p>
-
-      <input id="reg-name" class="w-full mb-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="text" placeholder="Full Name"/>
-      <input id="reg-email" class="w-full mb-3 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="email" placeholder="Email"/>
-      <input id="reg-password" class="w-full mb-5 p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-white" type="password" placeholder="Password"/>
-
-      <button id="register-btn" class="w-full py-3 bg-green-500 text-white rounded-lg hover:bg-green-600">Register</button>
-
-      <div class="mt-6 text-sm text-gray-700 dark:text-gray-300">
-        Already have an account? <button onclick="showAuthView('login')" class="text-cyan-500 font-semibold">Sign in</button>
-      </div>
-    </div>
-
-  </div>
-</section>
+  </main>
 
 </body>
 </html>
